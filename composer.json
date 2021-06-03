@@ -1,5 +1,5 @@
 {
-    "name": "incompass/aws-secrets-bundle",
+    "name": "ionutarmeanu-work/aws-secrets-bundle",
     "type": "symfony-bundle",
     "description": "Loads ENV vars from AWS Secrets Manager",
     "keywords": ["Symfony", "AWS", "ENV", "Secrets Manager"],
