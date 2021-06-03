@@ -20,7 +20,7 @@ class SecretsManagerClientFactory
      * @return SecretsManagerClient
      * @throws \Exception
      */
-    public function createClient(
+    public static createClient(
         string $region,
         string $version,
         ?string $key,
